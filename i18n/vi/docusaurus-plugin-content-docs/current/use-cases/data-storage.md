@@ -31,7 +31,7 @@ Trong khi các tệp lớn thường được lưu trữ ngoài chuỗi (off-cha
 - **Tính bền vững dài hạn** nhờ cơ chế proof of stake và quản trị cộng đồng  
 - **Khả năng tương tác** với các mạng lưu trữ phi tập trung  
 - **Chi phí thấp** cho việc lưu trữ hash và logic kiểm soát truy cập  
-- **Công cụ dành cho nhà phát triển** để xây dựng ứng dụng lưu trữ  
+- **Công cụ dành cho nhà phát triển** để xây dựng ứng dụng lưu trữ   
 
 ## Bắt đầu
 
